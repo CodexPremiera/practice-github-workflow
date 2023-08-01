@@ -11,3 +11,5 @@ console.log();
 
 /* ==================== CODE ADDITIONS #2 ==================== */
 console.log('This change #1 from comandao_simultaneous_chnage.');
+console.log('This change #2 from comandao_simultaneous_chnage.');
+console.log();
