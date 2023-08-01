@@ -16,5 +16,5 @@ console.log('This change #2 from main branch.');
 console.log();
 
 // FROM DETACHMENT
-console.log('This change #1 from comandao_simultaneous_chnage.');
-console.log('This change #2 from comandao_simultaneous_chnage.');
+console.log('This change #1 from comandao_simultaneous_change.');
+console.log('This change #2 from comandao_simultaneous_change.');
