@@ -10,7 +10,7 @@ This repository is made to practice the **GitHub Workflow**. Some of the things 
 5. Making, reviewing, and merging pull requests. 
 6. Simulate a conflict in the main and detached branches prior to merging.
 
-This project only demonstrates the basics of the GitHub Workflow on a small scale. But this is the first step to integrating future projects with version control both
-on local and remote environments.
+This project only demonstrates the basics of the GitHub Workflow on a small scale. But this is the first step to 
+integrating future projects with version control both on local and remote environments.
 
 *- CodexPremiera*
